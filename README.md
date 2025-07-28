@@ -2,7 +2,7 @@
 This page is a work in progress. </br>
 
 [Background](#Background) </br>
-[SQL]
+[SQL] <br>
 [Tableau Dashboard](https://public.tableau.com/authoring/VisualizingHospitalAcquiredInfectionsinHealthValueBasedPerformanceFacilitiesWIP/Dashboard1#1)
 
 # Background
